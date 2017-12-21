@@ -18,4 +18,4 @@ Add the plugin via tpm and install:
 set -g @plugin 'hmngwy/tmux-awsbill'
 ```
 
-ADd `#{aws_bill}` to your status line.
+Add `#{aws_bill}` to your status line.
